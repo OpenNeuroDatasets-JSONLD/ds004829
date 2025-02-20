@@ -2,7 +2,7 @@ This dataset contains the raw fMRI BIDS dataset from the work "Concurrent respon
 
 The dataset includes, per participant (N = 30): 
 
-- De-faced anatomical T1-weighted scan (/anat); 
+- De-faced anatomical T1-weighted scan (/anat).
 
 - T2* EPI images from 7 functional runs (/func), 4 of them corresponding to the main experimental paradigm and 3 additional localizer runs. TSV event files containing onset and durations of the main events of interest are  
 also included. 
